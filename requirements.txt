@@ -1,0 +1,10 @@
+torch>=1.13
+torchvision
+numpy
+opencv-python
+pandas
+tensorboard
+tqdm
+imgaug
+pygame         # optional for simple simulators
+matplotlib
